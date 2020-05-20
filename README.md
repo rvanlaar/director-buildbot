@@ -1,3 +1,5 @@
+# MOVED to scummvm organisation: https://github.com/scummvm/scummvm-sites/tree/director-buildbot
+
 # Buildbot for testing the SCUMMVM director engine
 
 This buildbot runs scummvm on a multitude of Director 2, 3 and 4 files.
